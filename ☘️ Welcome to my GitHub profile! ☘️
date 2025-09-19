@@ -6,7 +6,7 @@ Proficient in Docker, Kubernetes, GitLab CI/CD, and database optimization with i
 Highly adaptable and collaborative professional with a strong focus on achieving business objectives. Excel in quickly understanding new products, communicating effectively within teams, and providing complete, high-quality solutions. Embrace challenges and prioritize continuous professional development.
 
 🚀 Skills
-Programming Languages: Golang, Python
+Programming Languages:  Python
 Databases: PostgreSQL, Clickhouse, MongoDB
 Tools & Technologies: S3, Kafka, Docker, Kubernetes, Memcached, Redis, Prometheus, Grafana, GitLab CI/CD
 Software Architecture: Experience in designing and implementing robust software systems.
@@ -19,7 +19,7 @@ Improved the architectural design for asynchronous task creation in a Kafka envi
 Optimized database queries, resulting in a 5x performance improvement on the main page load time (reduced from 5 seconds to 1 second).
 Involved in the full recruitment cycle, from candidate screening to interviews.
 Provided training and mentorship to interns and junior team members, enhancing their skills and performance.
-Technologies: Golang, Clickhouse, PostgreSQL, Kafka, S3, Memcached, Prometheus, Grafana
+Technologies:  Clickhouse, PostgreSQL, Kafka, S3, Memcached, Prometheus, Grafana
 
 Software Developer at Yandex (Nov 2020 - Feb 2023)
 
@@ -28,7 +28,7 @@ Participated in cross-teams code review, promoted good software engineering prac
 Implemented a PostgreSQL-based task queue utilizing the Transactional Outbox(SAGA) pattern to ensure reliable and atomic message delivery, supporting over 6 development teams.
 Involved in the full recruitment cycle, from candidate screening to interviews.
 Provided training and mentorship to interns and junior team members, enhancing their skills and performance.
-Technologies: Golang, PostgreSQL, Redis, Kafka, S3, Prometheus, Grafana
+Technologies: PostgreSQL, Redis, Kafka, S3, Prometheus, Grafana
 
 🤖 Education
 Bachelor's Degree in Computer Software Engineering
@@ -38,17 +38,4 @@ Feel free to connect with me on LinkedIn or reach out via email at dilanbulamu@g
 
 ☘️ Thank you for visiting my profile! ☘️
 
-<!--
-**weewwweew/weewwweew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
